@@ -3,32 +3,23 @@
 🎯 Objective The primary objective of this milestone was to develop a professional, user-friendly frontend for a Fitness Profile Form. This form is designed to capture essential health and fitness details from users to serve as a foundation for generating personalized workout plans. Key focus areas included:
 
   UI/UX Design: Implementing a high-contrast, professional theme with a black sidebar and an orange-yellow gradient background.
-
   Data Collection: Establishing required fields for personal and fitness-related information.
-
   Health Metrics: Integrating real-time BMI (Body Mass Index) calculation and classification.
-
   Validation: Ensuring data integrity through robust input validation.
 
 📐 BMI Formula & Logic
 
 Unit Conversion Height is captured in centimeters (cm) and converted to meters (m) for the calculation:
-
-   Height(m) = Height(cm)/100
+Height(m) = Height(cm)/100
 
 The Formula The Body Mass Index is calculated using the weight in kilograms and the square of the height in meters:
-
-  BMI = Weight(kg)/[Height(m)]^2
+BMI = Weight(kg)/[Height(m)]^2
 
 Classification Calculated BMI values are rounded to two decimal places and classified into the following health categories:
-
-  Underweight: BMI < 18.5
-
-  Normal: 18.5 ≤ BMI < 25.0
-
-  Overweight: 25.0 ≤ BMI < 30.0
-
-  Obese: BMI ≥ 30.0
+Underweight: BMI < 18.5
+Normal: 18.5 ≤ BMI < 25.0
+Overweight: 25.0 ≤ BMI < 30.0
+Obese: BMI ≥ 30.0
 
 🛠️ Steps Performed
 
