@@ -51,7 +51,6 @@ II. Input Validation
 III. BMI Logic Implementation
 
   Dynamic Calculation: Integrated the BMI formula directly into the "Generate" trigger.
-
   Result Presentation: Designed a custom "Assessment Card" using HTML/CSS injection to display the user's specific health classification in a professional, readable format.
 
 IV. Deployment
@@ -59,3 +58,4 @@ IV. Deployment
   Environment Setup: Configured requirements.txt and streamlit_app.py.
 
   Hugging Face Spaces: Successfully deployed the application to Hugging Face Spaces for public accessibility.
+  https://huggingface.co/spaces/Amrutha04/AI-Fitness-Plan-Generator
