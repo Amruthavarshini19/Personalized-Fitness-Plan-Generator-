@@ -51,6 +51,7 @@ II. Input Validation
 III. BMI Logic Implementation
 
   Dynamic Calculation: Integrated the BMI formula directly into the "Generate" trigger.
+  
   Result Presentation: Designed a custom "Assessment Card" using HTML/CSS injection to display the user's specific health classification in a professional, readable format.
 
 IV. Deployment
