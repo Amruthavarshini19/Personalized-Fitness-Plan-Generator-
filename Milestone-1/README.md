@@ -24,30 +24,20 @@ Obese: BMI ≥ 30.0
 🛠️ Steps Performed
 
 I. Form Creation & Layout
-
-  Sidebar Development: Created a dedicated black sidebar for the application title and branding.
-
-  Input Grid: Utilized st.columns to create an organized grid for Personal Information (Name, Gender, Age) and Physical Stats (Height, Weight).
-
-  Selection Components: Implemented st.selectbox for Fitness Goals and Levels, and st.multiselect for equipment to allow for complex user profiles.
+Sidebar Development: Created a dedicated black sidebar for the application title and branding.
+Input Grid: Utilized st.columns to create an organized grid for Personal Information (Name, Gender, Age) and Physical Stats (Height, Weight).
+Selection Components: Implemented st.selectbox for Fitness Goals and Levels, and st.multiselect for equipment to allow for complex user profiles.
 
 II. Input Validation
-
-  Requirement Checks: Implemented logic to ensure the "Full Name" field is not left empty.
-
-  Numerical Bounds: Added validation to prevent calculations if height or weight are entered as zero or negative values.
-
-  Professional Feedback: Integrated st.error messages to guide users in correcting invalid inputs.
+Requirement Checks: Implemented logic to ensure the "Full Name" field is not left empty.
+Numerical Bounds: Added validation to prevent calculations if height or weight are entered as zero or negative values.
+Professional Feedback: Integrated st.error messages to guide users in correcting invalid inputs.
 
 III. BMI Logic Implementation
-
-  Dynamic Calculation: Integrated the BMI formula directly into the "Generate" trigger.
-  
+Dynamic Calculation: Integrated the BMI formula directly into the "Generate" trigger.
   Result Presentation: Designed a custom "Assessment Card" using HTML/CSS injection to display the user's specific health classification in a professional, readable format.
 
 IV. Deployment
-
-  Environment Setup: Configured requirements.txt and streamlit_app.py.
-
-  Hugging Face Spaces: Successfully deployed the application to Hugging Face Spaces for public accessibility.
-  Project Hugging Face Link: https://huggingface.co/spaces/Amrutha04/AI-Fitness-Plan-Generator
+Environment Setup: Configured requirements.txt and streamlit_app.py.
+Hugging Face Spaces: Successfully deployed the application to Hugging Face Spaces for public accessibility.
+Project Hugging Face Link: https://huggingface.co/spaces/Amrutha04/AI-Fitness-Plan-Generator
