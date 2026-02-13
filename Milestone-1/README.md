@@ -1,6 +1,6 @@
 🏋️ Personalised Fitness Plan Generator - Milestone 1
 
-        🎯 Objective The primary objective of this milestone was to develop a professional, user-friendly frontend for a Fitness Profile Form. This form is designed to capture essential health and fitness details from users to serve as a foundation for generating personalized workout plans. Key focus areas included:
+🎯 Objective The primary objective of this milestone was to develop a professional, user-friendly frontend for a Fitness Profile Form. This form is designed to capture essential health and fitness details from users to serve as a foundation for generating personalized workout plans. Key focus areas included:
 
   UI/UX Design: Implementing a high-contrast, professional theme with a black sidebar and an orange-yellow gradient background.
 
