@@ -18,6 +18,7 @@ This form captures essential health and fitness details from users to serve as a
 ---
 
 ## 📐 BMI Formula & Logic
+BMI = Weight (kg) / [Height (m)]^2
 
 ### 🔹 Unit Conversion
 
