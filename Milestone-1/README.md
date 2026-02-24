@@ -18,13 +18,15 @@ This form captures essential health and fitness details from users to serve as a
 ---
 
 ## 📐 BMI Formula & Logic
-BMI = Weight (kg) / [Height (m)]^2
+
 
 ### 🔹 Unit Conversion
 
 Height is captured in centimeters (cm) and converted to meters (m):
+Height (m) = Height (cm) / 100
 
 ### 🔹 BMI Formula
+BMI = Weight (kg) / [Height (m)]^2
 
 ### 🔹 Classification
 
