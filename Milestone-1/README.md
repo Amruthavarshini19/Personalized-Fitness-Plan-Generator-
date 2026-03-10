@@ -61,4 +61,4 @@ Calculated BMI values are rounded to two decimal places and classified as:
 - Successfully deployed the application to Hugging Face Spaces.
 
 🔗 **Live Project Link:**  
-https://huggingface.co/spaces/Amrutha04/Fit_Plan_Module_2
+https://huggingface.co/spaces/Amrutha04/AI-Fitness-Plan-Generator
