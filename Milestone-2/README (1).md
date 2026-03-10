@@ -128,7 +128,7 @@ This creates a **multi-page app feel** inside Streamlit.
 
 ### 🌐 Hugging Face Space
 🔗 **Live App:**  
-[Insert Your Hugging Face Space Link Here]
+https://huggingface.co/spaces/Amrutha04/Fit_Plan_Module_2
 
 ---
 
